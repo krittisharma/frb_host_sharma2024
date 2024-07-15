@@ -1,0 +1,11 @@
+astro_prospector==1.1.0
+astro_sedpy==0.3.0
+astropy==6.0.1
+matplotlib==3.8.2
+ndtest==0.1
+numpy==2.0.0
+pandas==2.0.0
+scipy==1.14.0
+seaborn==0.13.2
+torch==2.1.2
+tqdm==4.65.0

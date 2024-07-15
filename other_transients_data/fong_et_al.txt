@@ -1,0 +1,74 @@
+GRB	z	Afterglow ^a	Offset	sigma	Offset ^b	sigma	Offset	sigma	Reference ^c		
+050509B	0.2248	X	15.10	3.40	55.19	12.43	2.59	0.58	1	
+050709	0.1607	X	1.35	0.020	3.76	0.056	2.00	0.030	1	
+050724A	0.254	O	0.68	0.020	2.74	0.080	0.67	0.020	1	
+050813	0.719	X	5.96	2.34	43.57	17.37	cdots	cdots	This work	
+051210	2.58	X	3.56	2.00	29.08	16.34	5.65	3.17	1	
+051221A	0.5464	O	0.32	0.030	2.08	0.19	0.89	0.083	1		
+060614	0.125	O	0.31	0.35	0.70	0.79	0.86	0.97	This work	
+060801	1.131	X	1.23	1.31	10.25	10.92	cdots	cdots	2	
+061006	0.461	O	0.24	0.05	1.39	0.29	0.37	0.077	1	
+061210	0.4095	X	2.82	2.61	15.51	14.36	cdots	cdots	3	
+070429B	0.902	X	0.76	1.7	6.00	13.44	1.17	2.62	3	
+070714B	0.923	O	1.55	0.11	12.33	0.87	5.17	0.37	3	
+070724A	0.457	O	0.94	0.03	5.52	0.18	1.49	0.048	3	
+070729	0.52	X	3.13	2.3	19.72	14.49	cdots	cdots	This work	
+070809	0.473	O	5.70	0.46	34.11	2.75	9.34	0.75	3	
+071227A	0.381	O	2.80	0.05	14.74	0.26	3.08	0.055	3	
+080123	0.495	X	8.74	1.25	53.63	7.67	cdots	cdots	This work	
+080905	0.1218	O	8.29	0.08	18.30	0.18	4.61	0.044	3		
+090426A	2.609	O	0.060	0.030	0.49	0.24	0.29	0.14	3	
+090510	0.903	O	1.33	0.37	10.51	2.92	1.66	0.46	3	
+090515	0.403	O	13.98	0.03	76.19	0.16	13.98	0.03	3	
+100117A	0.914	O	0.17	0.04	1.35	0.32	0.61	0.14	2	
+100206A	0.407	X	4.59	2.37	25.28	13.05	cdots	cdots	This work	
+100625A	0.452	X	0.45	1.16	2.63	6.77	cdots	cdots	This work	
+101219A	0.718	X	0.75	0.91	5.48	6.65	cdots	cdots	This work	
+101224A	0.454	X	2.18	2.31	12.75	13.51	cdots	cdots	This work	
+111117A	2.211	X	1.25	0.2	10.52	1.68	cdots	cdots	This work	
+120305A	0.225	X	4.967	1.44	18.09	5.25	cdots	cdots	This work	
+120804A	1.05	O	0.27	0.15	2.22	1.23	cdots	cdots	This work	
+121226A	1.37	X	0.27	1.07	2.31	9.15	cdots	cdots	This work	
+130515A	0.8	X	8.05	1.81	61.22	13.77	cdots	cdots	This work	
+130603B	0.3568	O	1.07	0.04	5.40	0.20	0.71	0.027	3	
+130716A	2.2	X	3.93	1.69	33.08	14.23	cdots	cdots	This work	
+130822A	0.154	X	22.32	1.82	60.09	4.90	cdots	cdots	This work	
+131004A	0.717	O	0.11	0.030	0.80	0.22	0.25	0.068	This work	
+140129B	0.43	O	0.31	0.31	1.76	1.76	cdots	cdots	This work	
+140622A	0.959	X	4.1	1.4	32.95	11.25	cdots	cdots	This work	
+140903A	0.351	O	0.18	0.02	0.90	0.10	cdots	cdots	This work	
+140930B	1.465	O	1.12	0.5	9.62	4.30	cdots	cdots	This work	
+141212A	0.596	R	2.782	1.823	18.75	12.29	cdots	cdots	This work	
+150101B	0.134	O	3.07	0.030	7.36	0.072	0.78	0.0076	5, This work	
+150120A	0.46	X	0.81	1.094	4.77	6.44	cdots	cdots	This work	
+150728A	0.461	X	1.28	3.44	7.52	20.29	cdots	cdots	This work	
+150831A	1.18	X	1.48	1.18	12.43	9.90	cdots	cdots	This work	
+151229A	0.63	X	1.18	0.88	8.16	6.05	cdots	cdots	This work	
+160303A	1.01	O	1.88	0.11	15.31	0.90	3.42	0.2	This work	
+160408A	1.9	O	1.65	0.15	14.13	1.25	cdots	cdots	This work	
+160411A	0.82	O	0.18	0.3	1.40	2.30	cdots	cdots	This work	
+160525B	0.64	X	0.79	1.06	5.50	7.38	cdots	cdots	This work	
+160624A	0.4842	X	1.59	1.03	9.63	6.24	2.37	1.54	This work	
+160821B	0.1619	O	5.61	0.01	15.74	0.03	4.24	0.008	This work	
+161001A	0.67	X	2.61	0.88	18.54	6.22	cdots	cdots	This work	
+161104A	0.793	X	0.219	2.19	1.66	16.60	cdots	cdots	6	
+170127B	2.28	X	1.24	1.63	10.37	13.60	cdots	cdots	This work	
+170428A	0.453	O	1.32	0.58	7.72	3.39	cdots	cdots	This work	
+170728A	1.493	O	3.75	0.35	32.25	3.01	cdots	cdots	This work	
+170728B	1.272	O	0.99	0.30	8.40	2.55	cdots	cdots	This work	
+180418A	1.56	O	0.16	0.04	1.30	0.32	cdots	cdots	7	
+180618A	0.52	O	1.54	0.27	9.70	1.69	cdots	cdots	This work	
+180727A	1.95	X	0.3	0.6	2.56	5.13	cdots	cdots	This work	
+180805B	0.6612	X	3.44	1.06	24.30	7.49	cdots	cdots	This work	
+181123B	1.754	O	0.59	0.16	5.08	1.38	cdots	cdots	8	
+191031D	1.93	X	1.53	1.25	13.08	10.69	cdots	cdots	This work	
+200219A	0.48	X	1.38	0.88	8.30	5.28	cdots	cdots	This work	
+200411A	0.82	X	4.91	0.88	37.66	6.75	cdots	cdots	This work	
+200522A	0.5536	O	0.143	0.029	0.93	0.19	0.24	0.048	9	
+200907B	0.56	X	0.37	1.19	2.41	7.78	cdots	cdots	This work	
+201221D	1.055	X	3.57	2.93	29.35	24.09	cdots	cdots	This work	
+210323A	0.733	O	0.8	0.5	5.89	3.68	cdots	cdots	This work	
+210726A	0.37	R	0.044	0.15	0.23	0.78	cdots	cdots	This work	
+210919A	0.2415	O	13.28	0.5	51.05	1.92	cdots	cdots	This work	
+211023B	0.862	O	0.49	0.33	3.84	2.57	cdots	cdots	This work	
+211211A	0.0763	O	5.44	0.02	7.92	0.029	3.20	0.01	11, This work
