@@ -1146,8 +1146,8 @@ def read_sGRB_hosts_data():
                             sfr_erru = 1e-10
                         
                         sgrb_logM.append(mass)
-                        sgrb_logM_errl.append(float(line[66:70]))
-                        sgrb_logM_erru.append(float(line[61:65]))
+                        sgrb_logM_errl.append(line[66:70])
+                        sgrb_logM_erru.append(line[61:65])
                         sgrb_logSFR.append(np.log10(sfr))
                         sgrb_logSFR_errl.append(np.log10(sfr) - \
                                                 np.log10(sfr + sfr_errl))
